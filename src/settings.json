@@ -1,0 +1,83 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    },
+    {
+      "id": "HeroWithPhoneMockup"
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Sign Up Now",
+        "description": "Subscribe to our energetic newsletter to get exclusive insights into the world of Engineering \u0026 Development. Be the first to know about new blog posts, tool updates, and upcoming special events.",
+        "emailLabel": "Your Email",
+        "heading": "Stay Updated with Personal Blog!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "description": "Join our vibrant community of creators who trust us for reliable and fair platform services.",
+        "title": "Creators Love Our Platform!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today.",
+        "title": "Unleash Your Engineering Passion with Yay!"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Unleash Your Engineering Passion with Yay!",
+  "subtitle": "Dive into the world of innovation and development with exciting stories, expert tips, and inspiring journeys. Join the energetic community of engineers shaping the future today."
+}
